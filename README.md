@@ -1,5 +1,4 @@
-# smzdm-pic
-什么值得买全套表情
+# 什么值得买全套表情
 
 ![smzdm](https://gitee.com/iamsjy/smzdm-pic/raw/master/0.gif)
 ![smzdm](https://gitee.com/iamsjy/smzdm-pic/raw/master/1.gif)
